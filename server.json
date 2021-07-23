@@ -1,0 +1,32 @@
+{
+  "produtos": [
+      {
+          "id": 1,
+          "photo": "https://mservice.vteximg.com.br/arquivos/ids/365845-1000-1000/1-Relgio-Smartwatch-.jpg?v=637417500429330000",
+          "name": "smartwatch",
+          "description": "v1",
+          "price": 500
+      },
+      {
+        "id": 2,
+        "photo": "https://images-americanas.b2w.io/produtos/1900335711/imagens/y68-smartwatch-d20-relogio-inteligente-esportivo-a-prova-d-agua-bluetooth-pulseira-smart-para-esportes-monitor-cardiaco-pressao-sanguinea-frequencia-para-android-ios/1900335720_1_large.jpg",
+        "name": "smartwatch",
+        "description": "v2",
+        "price": 700
+    },
+    {
+      "id": 3,
+      "photo": "https://http2.mlstatic.com/D_NQ_NP_874642-MLB42229224971_062020-O.jpg",
+      "name": "smartwatch",
+      "description": "v3",
+      "price": 500
+  },
+  {
+    "id": 4,
+    "photo": "https://http2.mlstatic.com/D_NQ_NP_874642-MLB42229224971_062020-O.jpg",
+    "name": "smartwatch",
+    "description": "v3",
+    "price": 500
+}
+  ]
+}
