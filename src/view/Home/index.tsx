@@ -30,8 +30,7 @@ const Home: React.FC = () => {
 
   
   const addCart = (index: number) => {
-    let push: any = [... cart, cart.push(data[index])]
-    setCart(push)
+    cart.push(data[index])
     const productStore = JSON.stringify(cart);
     localStorage.setItem('@cart', productStore)
   } 
