@@ -53,7 +53,7 @@ const Home: React.FC = () => {
          <img src={prod.photo} alt="smartwatch" width="200" height="auto" />
          <h4>{prod.name}</h4>
          <span>{prod.description}</span>
-         <h6>{prod.price}</h6>
+         <h6>R$ {prod.price}</h6>
          <button onClick={() => addCart(index)}>Adicionar ao carrinho</button>
        </div> 
       ))}
