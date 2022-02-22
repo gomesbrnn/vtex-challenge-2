@@ -12,6 +12,6 @@
 
 
 
-🔗 Link para o site: https://vtex-challenge-02.netlify.app/
+🔗 Link da aplicação: https://vtex-challenge-02.netlify.app/
 
-🔗https://www.linkedin.com/in/gomesbrnn/
+🔗 Conecte-se comigo: https://www.linkedin.com/in/gomesbrnn/
